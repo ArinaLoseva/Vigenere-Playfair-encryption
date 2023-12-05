@@ -3,7 +3,7 @@ code for Windows Form application for text encryption using Vigenуre +  Playfai
 ## About
 Programming language: C#
 This small code is just my training lab, which may come in handy :)
-##Assignment
+## Assignment
 Develop a windowed software tool for encryption and
 decryption of data using the Playfair cipher with
 using the Playfair encryption key via
